@@ -6,7 +6,7 @@ public class FirstTestClass {
     }
 
     public static void printSomeText() {
-        System.out.println("Some text is here");
+        System.out.println("Text is changed here");
     }
 
 }
